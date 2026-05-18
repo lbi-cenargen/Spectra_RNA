@@ -1,2 +1,2 @@
 # SpectraAnalysis
-programa para analise automatizada de dados gerados por spectrofluorimetros 
+A software package designed to automate spectrofluorimetric data processing, including fluorescence normalization, signal extraction, and interpretation. The software reduced manual analysis time and minimized analytical variability, improving the robustness, scalability, and reproducibility of fluorescence-based workflows for molecular biology and biomedical applications. Therefore, the development of SpectraAnalysis represents an important contribution to scientific advancement by enabling more reliable, standardized, and high-throughput analysis of fluorescence data.
